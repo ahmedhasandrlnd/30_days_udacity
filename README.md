@@ -3,14 +3,14 @@
 ## 30 Days Udacity
 
 <a id='top'></a>
-### Table of Contents
+### Daily Updates
 
 - [Day 1](#day1)
 - [Day 2](#day2)
 
 ***
-
-<a id='day1'>Day 1</a>
+#### Day 1
+<a id='day1'></a>
 
 ![Day1](day1.JPG)
 
