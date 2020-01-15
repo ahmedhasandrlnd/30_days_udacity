@@ -9,7 +9,7 @@
 - [Day 2](#day2)
 
 ***
-#### Day 1
+### Day 1
 <a id='day1'></a>
 
 ![Day1](day1.JPG)
