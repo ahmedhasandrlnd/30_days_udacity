@@ -42,7 +42,8 @@
 ### Day05
 <a id='day5'></a>
 ![Day5](day5.JPG)
-![Day5](day5b.JPG)
+
+[Day5](day5b.pdf)
 
 [Back to Top](#top)
 
