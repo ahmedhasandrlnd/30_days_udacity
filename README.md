@@ -56,13 +56,6 @@
 [Back to Top](#top)
 
 *** 
-### Day02
-<a id='day2'></a>
-![Day2](day2.JPG)
-
-[Back to Top](#top)
-
-*** 
 ### Day07
 <a id='day7'></a>
 ![Day7](day7.JPG)
