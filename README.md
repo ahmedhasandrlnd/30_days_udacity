@@ -87,3 +87,89 @@
 
 
 [Back to Top](#top)
+
+*** 
+### Day11
+<a id='day11'></a>
+![Day11](day11.JPG)
+
+[Back to Top](#top)
+
+*** 
+### Day12
+<a id='day12'></a>
+![Day12](day12.JPG)
+![Day12](day12b.JPG)
+![Day12](day12c.jpg)
+
+[Back to Top](#top)
+
+*** 
+### Day13
+<a id='day13'></a>
+![Day13](day13.JPG)
+![Day13](day13b.gif)
+
+[Back to Top](#top)
+
+*** 
+### Day14
+<a id='day14'></a>
+![Day14](day14.JPG)
+![Day14](day14b.gif)
+![Day14](day14c.gif)
+
+[Back to Top](#top)
+
+*** 
+### Day15
+<a id='day15'></a>
+![Day15](day15.JPG)
+
+
+[Back to Top](#top)
+
+*** 
+### Day16
+<a id='day16'></a>
+![Day16](day16.JPG)
+![Day16](day16b.gif)
+
+[Back to Top](#top)
+
+*** 
+### Day17
+<a id='day17'></a>
+![Day17](day17.JPG)
+![Day17](day17b.JPG)
+
+[Back to Top](#top)
+
+*** 
+### Day18
+<a id='day18'></a>
+![Day18](day18.JPG)
+![Day18](day18b.JPG)
+![Day18](day18c.JPG)
+
+[Back to Top](#top)
+
+*** 
+### Day19
+<a id='day19'></a>
+![Day19](day19.JPG)
+![Day19](day19b.JPG)
+![Day19](day19c.JPG)
+
+[Back to Top](#top)
+
+*** 
+### Day20
+<a id='day20'></a>
+![Day20](day20.JPG)
+![Day20](day20b.JPG)
+![Day20](day20c.jpg)
+
+[Back to Top](#top)
+
+***
