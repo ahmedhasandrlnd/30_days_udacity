@@ -250,12 +250,13 @@
 [Back to Top](#top)
 
 *** 
-<!---### Day20
-<a id='day20'></a>
-![Day20](images/day20.JPG)
-![Day20](images/day20b.JPG)
-![Day20](images/day20c.jpg)
+### Day30
+<a id='day30'></a>
+![Day30](images/day30.JPG)
+![Day30](images/day30b.JPG)
+
+[Certification](images/day30c.pdf)
 
 [Back to Top](#top)
 
-***--->
+***
