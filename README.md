@@ -2,6 +2,8 @@
 
 ## 30 Days Udacity
 
+![Hitting Finish Line](images/finish_line.gif)
+
 <a id='top'></a>
 ### Daily Updates
 
