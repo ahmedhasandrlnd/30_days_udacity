@@ -224,7 +224,7 @@
 ![Day26](images/day26d.JPG)
 ![Day26](images/day26e.JPG)
 
-[Day26](images/day26f.pdf)
+[Certification](images/day26f.pdf)
 
 [Back to Top](#top)
 
