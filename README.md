@@ -161,7 +161,7 @@
 <a id='day19'></a>
 ![Day19](images/day19.JPG)
 ![Day19](images/day19b.JPG)
-![Day19](images/day19c.JPG)
+
 
 [Back to Top](#top)
 
