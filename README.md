@@ -45,7 +45,7 @@
 <a id='day5'></a>
 ![Day5](images/day5.JPG)
 
-[Day5](images/day5b.pdf)
+[Raspberry PI:GPIO](images/day5b.pdf)
 
 [Back to Top](#top)
 
@@ -226,7 +226,7 @@
 ![Day26](images/day26d.JPG)
 ![Day26](images/day26e.JPG)
 
-[Certification](images/day26f.pdf)
+[Introduction to Deep Learning with OpenCV](images/day26f.pdf)
 
 [Back to Top](#top)
 
@@ -257,7 +257,7 @@
 ![Day30](images/day30.JPG)
 ![Day30](images/day30b.JPG)
 
-[Certification](images/day30c.pdf)
+[Node.js Essential Training](images/day30c.pdf)
 
 [Back to Top](#top)
 
