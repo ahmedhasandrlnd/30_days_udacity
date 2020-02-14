@@ -266,7 +266,7 @@
 <a id='day31'></a>
 ![Day31](images/day31.JPG)
 
-[Day31](images/day31.odf)
+[Learning npm the Node Package Manager](images/day31.odf)
 
 [Back to Top](#top)
 
