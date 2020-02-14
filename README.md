@@ -276,7 +276,7 @@
 <a id='day32'></a>
 ![Day32](images/day32.JPG)
 
-[Day32](images/day32b.pdf)
+[IoT](images/day32b.pdf)
 
 [Back to Top](#top)
 
